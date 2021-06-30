@@ -6,7 +6,7 @@
 // 찾을 문자 = R
 // 출력 = 3
 
-/*
+
 function find(str, w) {
     let answer = 0;
     for(let i of str){
@@ -19,7 +19,7 @@ function find(str, w) {
 
 var str = 'COMPUTERPROGRAMMING';
 console.log(find(str, 'R'));
-*/
+
 
 
 
@@ -39,4 +39,4 @@ function sol(s) {
 
 let str = "KoreaTimeGood";
 console.log(sol(str));
-// 3
+

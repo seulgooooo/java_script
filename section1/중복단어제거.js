@@ -15,6 +15,5 @@ let str = ["good", "time", "good", "time", "student"];
 console.log(sol(str));
 
 
-// 다른 버전   filter() 사용
 
 
